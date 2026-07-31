@@ -1,24 +1,24 @@
-# Project version:
-        clinic need CRM to monitor their financial flow and medicine flow in clinic through digit 
+##project vision:
+the client need a CRM to monitor the medicinal inventory and finances thought digital system.
 
-## Problem Statement:
-        right now, the clinic records their entire medicine record in manual (notebook)
-        owner does not have transparence or visibility in medicinal stock
-        owner is unable to check the finical by the end of the day, so the owner required a digit solution for this
+##Problem Statement:
+     the clinic currently medicine and sales record are stored in physical form
+     the client does not have transparency and visibility in finance
+     the client unable to check daily profit and inventory shortage.
 
-## this creates some exception 
-         the staff don't have much knowledge in software and not willing to learn it
+##target user:
+     client
+     staff
 
-## Goal:
-         Make the financial and medicine flow as transparency and owner need to have more control 
+##suggestion from client:
+     the client expected the software should be more easy to access 
+     this software is mostly used by staff who have limited computer knowledge and the software may handle by multiple staff for same active so it will be easy if the software part of staff should be less action
+  
+##goal:
+     to build a software that monitor both medicine inventory and financial management 
+     used to act as database of patients
 
-## Target Users:
-          Staff
-          Owner
-
-## Expected output:
-          the owner need a software to manage medicinal stock and patients information 
-
-
-
-
+##excepted output:
+     the software need to change the physical load into digital 
+     the client need more transparency in financial and medicine inventory 
+     the client need more access then staff
